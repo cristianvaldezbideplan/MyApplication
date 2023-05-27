@@ -32,7 +32,7 @@ public class PantallaIniciarSesion extends AppCompatActivity {
                 Toast.makeText(this,"Iniciando Acerca de Nosotros",Toast.LENGTH_SHORT).show();
                 break;
             case R.id.action_Acerca_Programador:
-                Toast.makeText(this,"Iniciando Acerca del Desarrollador",Toast.LENGTH_SHORT).show();
+                Toast.makeText(this,"Iniciando Acerca del Desarrollado",Toast.LENGTH_SHORT).show();
                 break;
         }
         return super.onOptionsItemSelected(item);
