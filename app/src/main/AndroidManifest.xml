@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".PantallaAcercaDesarrollador"
+            android:exported="true" />
+        <activity
+            android:name=".PantallaAcercaNosotros"
+            android:exported="true" />
+        <activity
             android:name=".PantallaCrearCuenta"
             android:exported="true" />
         <activity

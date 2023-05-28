@@ -16,5 +16,13 @@
         android:id="@+id/action_Acerca_Programador"
         android:title="Acerca del Desarrollador"
         app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_CerrarSesion"
+        android:title="Cerrar Sesion"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_Exit"
+        android:title="Exit"
+        app:showAsAction="never"/>
 
 </menu>
