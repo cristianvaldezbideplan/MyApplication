@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textViewCrearCuenta">Create Account</string>
+    <string name="editTextEmailAddress">Email</string>
+    <string name="textViewEmail">User</string>
+    <string name="editTextPassword">Password</string>
+    <string name="textViewContraseña">Password</string>
+    <string name="textVieDNombreCompleto1">Full name:</string>
+    <string name="textVieDNombreCompleto2">Cristian Valdez Bideplan</string>
+    <string name="textViewDCorreoElectronico1">Email:</string>
+    <string name="textViewDCorreoElectronico2">cristianvaldezbideplan@gmail.com</string>
+    <string name="textViewDNumeroTelefonico1">Phone number:</string>
+    <string name="textViewDNumeroTelefonico2">02954330926</string>
+    <string name="textViewDLocalidad1">Location:</string>
+    <string name="textViewDLocalidad2">Santa Rosa</string>
+    <string name="textViewDProvincia1">Province:</string>
+    <string name="textViewDProvincia2">La Pampa</string>
+    <string name="textViewDOcupacion1">Occupation:</string>
+    <string name="textViewDOcupacion2">Mobile app developer</string>
+    <string name="textViewDContarcar1">Tell Developer:</string>
+    <string name="textViewDContarcar2">count</string>
+    <string name="textViewDTitulo">About the Developer</string>
+    <string name="btnIniciarSesion">Log in</string>
+</resources>

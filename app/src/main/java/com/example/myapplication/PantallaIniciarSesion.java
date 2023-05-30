@@ -38,11 +38,11 @@ public class PantallaIniciarSesion extends AppCompatActivity {
                 startActivity(pantallaDesarrollador);
                 break;
             case R.id.action_CerrarSesion:
-                Intent pantallaCerrarSesion = new Intent(this, PantallaIniciarSesion.class);
+                Intent pantallaCerrarSesion = new Intent(this, MainActivity.class);
                 startActivity(pantallaCerrarSesion);
                 break;
             case R.id.action_Exit:
-                finish();
+                finishAffinity();
                 break;
         }
         return super.onOptionsItemSelected(item);

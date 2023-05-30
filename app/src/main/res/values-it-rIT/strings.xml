@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La mia applicazione</string>
+    <string name="textViewCrearCuenta">creare un account</string>
+    <string name="editTextEmailAddress">" E-mail"</string>
+    <string name="textViewEmail">Utente</string>
+    <string name="editTextPassword">Parola d\'ordine</string>
+    <string name="textViewContraseña">Parola d\'ordine</string>
+    <string name="textVieDNombreCompleto1">Nome e cognome:</string>
+    <string name="textVieDNombreCompleto2">Cristian Valdez Bideplan</string>
+    <string name="textViewDCorreoElectronico1">" E-mail:"</string>
+    <string name="textViewDCorreoElectronico2">cristianvaldezbideplan@gmail.com</string>
+    <string name="textViewDNumeroTelefonico1">Numero di telefono:</string>
+    <string name="textViewDNumeroTelefonico2">02954330926</string>
+    <string name="textViewDLocalidad1">Posizione:</string>
+    <string name="textViewDLocalidad2">Santa Rosa</string>
+    <string name="textViewDProvincia1">" Provincia:"</string>
+    <string name="textViewDProvincia2">La Pampa</string>
+    <string name="textViewDOcupacion1">Occupazione:</string>
+    <string name="textViewDOcupacion2">sviluppatore di applicazioni mobili</string>
+    <string name="textViewDContarcar1">Dillo allo sviluppatore:</string>
+    <string name="textViewDContarcar2">contare</string>
+    <string name="textViewDTitulo">Informazioni sullo sviluppatore</string>
+    <string name="btnIniciarSesion">Iniciar Sesion</string>
+</resources>

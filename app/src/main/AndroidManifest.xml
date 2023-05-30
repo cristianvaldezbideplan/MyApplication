@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".PantallaEnlacesComunicacion"
+            android:exported="true" />
+        <activity
             android:name=".PantallaAcercaDesarrollador"
             android:exported="true" />
         <activity

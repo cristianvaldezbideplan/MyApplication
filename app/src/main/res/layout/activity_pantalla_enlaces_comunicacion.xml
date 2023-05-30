@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PantallaEnlacesComunicacion"
+    android:background="#000000">
+
+    <Button
+        android:id="@+id/btnECTelefono"
+        android:layout_width="285dp"
+        android:layout_height="50dp"
+        android:text="Telefono"
+        android:textSize="12sp"
+        app:backgroundTint="#CEE50914"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnECWhatssap"
+        app:layout_constraintEnd_toEndOf="@+id/btnECWhatssap"
+        app:layout_constraintHorizontal_bias="0.984"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.813" />
+
+    <Button
+        android:id="@+id/btnECWhatssap"
+        android:layout_width="285dp"
+        android:layout_height="50dp"
+        android:text="Whatssap"
+        android:textSize="12sp"
+        app:backgroundTint="#CEE50914"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnECCorreo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/btnECCorreo"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.87" />
+
+    <Button
+        android:id="@+id/btnECGitHub"
+        android:layout_width="285dp"
+        android:layout_height="50dp"
+        android:text="GitHub"
+        android:textSize="12sp"
+        app:backgroundTint="#CEE50914"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnECPortaFolio"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.015"
+        app:layout_constraintStart_toStartOf="@+id/btnECPortaFolio"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.916" />
+
+    <Button
+        android:id="@+id/btnECLinkedin"
+        android:layout_width="285dp"
+        android:layout_height="50dp"
+        android:text="LinkedIn"
+        android:textSize="12sp"
+        app:backgroundTint="#CEE50914"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.869" />
+
+    <Button
+        android:id="@+id/btnECPortaFolio"
+        android:layout_width="285dp"
+        android:layout_height="50dp"
+        android:text="PortaFolio"
+        android:textSize="12sp"
+        app:backgroundTint="#CEE50914"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnECLinkedin"
+        app:layout_constraintEnd_toEndOf="@+id/btnECLinkedin"
+        app:layout_constraintHorizontal_bias="0.984"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.937" />
+
+    <Button
+        android:id="@+id/btnECCorreo"
+        android:layout_width="285dp"
+        android:layout_height="50dp"
+        android:text="Correo Electronico"
+        android:textSize="12sp"
+        app:backgroundTint="#CEE50914"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnECGitHub"
+        app:layout_constraintEnd_toEndOf="@+id/btnECGitHub"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.894" />
+
+    <TextView
+        android:id="@+id/textViewECTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contactos del Desarrollador"
+        android:textColor="#F5F5F1"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnECTelefono"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.708" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

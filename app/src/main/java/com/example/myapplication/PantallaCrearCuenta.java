@@ -26,7 +26,7 @@ public class PantallaCrearCuenta extends AppCompatActivity {
 
     private void CrearCuenta(){
         Toast.makeText(this,"En proceso",Toast.LENGTH_SHORT).show();
-        Intent CuentaCreada = new Intent(this, PantallaIniciarSesion.class);
+        Intent CuentaCreada = new Intent(this, MainActivity.class);
         startActivity(CuentaCreada);
     }
 

@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Aplicacion</string>
-    <string name="btnIniciarSesion">Iniciar Sesion</string>
     <string name="textViewCrearCuenta">Crear Cuenta</string>
-    <string name="textViewEmail">Usuario</string>
     <string name="editTextEmailAddress">Correo Electronico</string>
+    <string name="textViewEmail">Usuario</string>
     <string name="editTextPassword">Contraseña</string>
     <string name="textViewContraseña">Contraseña</string>
     <string name="textVieDNombreCompleto1">Nombre Completo:</string>
@@ -12,13 +12,14 @@
     <string name="textViewDCorreoElectronico2">cristianvaldezbideplan@gmail.com</string>
     <string name="textViewDNumeroTelefonico1">Numero Telefonico:</string>
     <string name="textViewDNumeroTelefonico2">02954330926</string>
-    <string name="textViewDLocalidad2">Santa Rosa</string>
-    <string name="textViewDProvincia2">La Pampa</string>
-    <string name="textViewDOcupacion2">Developer de App Moviles</string>
-    <string name="textViewDContarcar2">Contartar</string>
     <string name="textViewDLocalidad1">Localidad:</string>
+    <string name="textViewDLocalidad2">Santa Rosa</string>
     <string name="textViewDProvincia1">Provincia:</string>
+    <string name="textViewDProvincia2">La Pampa</string>
     <string name="textViewDOcupacion1">Ocupaion:</string>
+    <string name="textViewDOcupacion2">Developer de App Moviles</string>
     <string name="textViewDContarcar1">Contartar al Desarrollador:</string>
+    <string name="textViewDContarcar2">Contartar</string>
     <string name="textViewDTitulo">Acerca del Desarrollador</string>
+    <string name="btnIniciarSesion">Iniciar Sesion</string>
 </resources>
