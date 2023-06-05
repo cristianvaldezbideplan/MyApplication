@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">La mia applicazione</string>
     <string name="textViewCrearCuenta">creare un account</string>
-    <string name="editTextEmailAddress">" E-mail"</string>
+    <string name="editTextEmailAddress">" Utente"</string>
     <string name="textViewEmail">Utente</string>
     <string name="editTextPassword">Parola d\'ordine</string>
     <string name="textViewContraseña">Parola d\'ordine</string>
@@ -22,4 +22,35 @@
     <string name="textViewDContarcar2">contare</string>
     <string name="textViewDTitulo">Informazioni sullo sviluppatore</string>
     <string name="btnIniciarSesion">Iniciar Sesion</string>
+    <string name="textViewTitulo1">Chi siamo</string>
+    <string name="textViewTitulo2">"¿Cos'è il Logo e il Marchio? "</string>
+    <string name="textViewText1">Il Brand è Netflix, il Logo è la N, che è una scorciatoia che definisce e fa riferimento al Brand Netflix.</string>
+    <string name="textViewTitulo3">¿Cos\'è Netflix?</string>
+    <string name="textViewText2">Netflix è un servizio di streaming che offre un\'ampia varietà di film, serie e documentari pluripremiati su quasi tutti gli schermi connessi a Internet. Tutto quello che vuoi vedere, senza limiti o pubblicità, ad un costo molto conveniente. C\'è sempre qualcosa di nuovo da scoprire e ogni settimana vengono aggiunti altri film e serie!</string>
+    <string name="textViewTitulo4">" Dispositivi compatibili"</string>
+    <string name="textViewText3">Netflix è compatibile con dispositivi come: Media Player, Smart TV, Console di gioco, Decoder, Lettori Blu-ray, Smartphone, Tablet, PC e Laptop.</string>
+    <string name="textViewNombre">" Nome e cognome: "</string>
+    <string name="textViewCContraseña">Parola d\'ordine:</string>
+    <string name="textViewCRContraseña">Ripeti la password:</string>
+    <string name="textViewTelefono">Telefono:</string>
+    <string name="textViewCCorreo">E-mail:</string>
+    <string name="btnCrearCuenta">Creare un account</string>
+    <string name="editTextTNombre">Nome e cognome</string>
+    <string name="editTextContraseña">Parola d\'ordine</string>
+    <string name="editTextRepContraseña">Parola d\'ordine</string>
+    <string name="editTextTelefono">Telefono</string>
+    <string name="editTextCorreo">E-mail</string>
+    <string name="textViewECTitulo">Contatti sviluppatori</string>
+    <string name="btnECTelefono">Telefono</string>
+    <string name="btnECWhatssap">WhatsApp</string>
+    <string name="btnECCorreo">E-mail</string>
+    <string name="btnECGitHub">GitHub</string>
+    <string name="btnECPortaFolio">Valigetta</string>
+    <string name="btnECLinkedin">LinkedIn</string>
+    <string name="action_Perfil">Profilo</string>
+    <string name="action_Acerca_Nosotros">Chi siamo</string>
+    <string name="action_Acerca_Programador">Informazioni sullo sviluppatore</string>
+    <string name="action_CerrarSesion">cancella la sottoscrizione</string>
+    <string name="action_Exit">Uscita</string>
+
 </resources>

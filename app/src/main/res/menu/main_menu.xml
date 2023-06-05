@@ -4,25 +4,25 @@
 
     <item
         android:id="@+id/action_Perfil"
-        android:title="Perfil"
-        app:showAsAction="never"/>
+        android:title="@string/action_Perfil"
+        app:showAsAction="never" />
 
     <item
         android:id="@+id/action_Acerca_Nosotros"
-        android:title="Acerca de Nosotros"
-        app:showAsAction="never"/>
+        android:title="@string/action_Acerca_Nosotros"
+        app:showAsAction="never" />
 
     <item
         android:id="@+id/action_Acerca_Programador"
-        android:title="Acerca del Desarrollador"
-        app:showAsAction="never"/>
+        android:title="@string/action_Acerca_Programador"
+        app:showAsAction="never" />
     <item
         android:id="@+id/action_CerrarSesion"
-        android:title="Cerrar Sesion"
-        app:showAsAction="never"/>
+        android:title="@string/action_CerrarSesion"
+        app:showAsAction="never" />
     <item
         android:id="@+id/action_Exit"
-        android:title="Exit"
-        app:showAsAction="never"/>
+        android:title="@string/action_Exit"
+        app:showAsAction="never" />
 
 </menu>

@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="textViewCrearCuenta">Create Account</string>
-    <string name="editTextEmailAddress">Email</string>
+    <string name="editTextEmailAddress">User</string>
     <string name="textViewEmail">User</string>
     <string name="editTextPassword">Password</string>
     <string name="textViewContraseña">Password</string>
@@ -22,4 +22,35 @@
     <string name="textViewDContarcar2">count</string>
     <string name="textViewDTitulo">About the Developer</string>
     <string name="btnIniciarSesion">Log in</string>
+    <string name="textViewTitulo1">About us</string>
+    <string name="textViewTitulo2">¿What is the Logo and Brand?</string>
+    <string name="textViewText1">The Brand is Netflix, the Logo is the N, which is a shorthand that defines and refers to the Netflix Brand.</string>
+    <string name="textViewTitulo3">¿What is Netflix?</string>
+    <string name="textViewText2">Netflix is ​​a streaming service that offers a wide variety of award-winning movies, series and documentaries on almost any screen connected to the Internet. Everything you want to see, without limits or commercials, at a very affordable cost. There\'s always something new to discover, and more movies and series are added every week!</string>
+    <string name="textViewTitulo4">Compatible Devices</string>
+    <string name="textViewText3">Netflix is ​​compatible with devices such as: Media Players, Smart TVs, Game Consoles, Decoders, Blu-ray Players, Smartphones, tablets, PCs and Laptops.</string>
+    <string name="textViewNombre">Full name:</string>
+    <string name="textViewCContraseña">Password:</string>
+    <string name="textViewCRContraseña">Repeat password:</string>
+    <string name="textViewTelefono">Phone:</string>
+    <string name="textViewCCorreo">Email:</string>
+    <string name="btnCrearCuenta">Create Account</string>
+    <string name="editTextTNombre">Name and surname</string>
+    <string name="editTextContraseña">Password</string>
+    <string name="editTextRepContraseña">Password</string>
+    <string name="editTextTelefono">Phone</string>
+    <string name="editTextCorreo">" Email"</string>
+    <string name="textViewECTitulo">Developer Contacts</string>
+    <string name="btnECWhatssap">WhatsApp</string>
+    <string name="btnECGitHub">GitHub</string>
+    <string name="btnECPortaFolio">Briefcase</string>
+    <string name="btnECLinkedin">LinkedIn</string>
+    <string name="btnECTelefono">" Phone"</string>
+    <string name="btnECCorreo">Email</string>
+    <string name="action_Perfil">Profile</string>
+    <string name="action_Acerca_Nosotros">About us</string>
+    <string name="action_Acerca_Programador">About the Developer</string>
+    <string name="action_CerrarSesion">" Sign off"</string>
+    <string name="action_Exit">Exit</string>
+
 </resources>
